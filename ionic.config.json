@@ -1,0 +1,7 @@
+{
+  "name": "Api_I+A ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
